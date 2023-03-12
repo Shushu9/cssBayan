@@ -1,6 +1,3 @@
-deployment
-https://Shushu9.github.io/cssBayan/cssBayan/index.html
+[Deployment](https://Shushu9.github.io/cssBayan/cssBayan/)
 
-
-task
-https://github.com/DrDiman/CSS-Bayan-task
+[Task description](https://github.com/DrDiman/CSS-Bayan-task)
